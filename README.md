@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @chaarvii, Junior at BITS Pilani pursuing a double major in Computer Science and Biological Sciences 
-- 👀 I’m highly interested in Research and Technology. I am looking for research opportunities, project collaborations and mentorship opportunities in deep learning and biocomputation. 
+- Hi! I am Chaarvi Bansal. I am a pre-final year student at BITS Pilani, India, pursuing a dual degree in M.Sc.(Honours) Biological Sciences and B.E.(Honours) Computer Science. My research interests center around the applications of deep learning in computational biology, bioinformatics and medicine.
 - Personal Website - https://chaarvii.github.io
 - 📫 Please feel free to reach me at chaarvib@gmail.com 
 
